@@ -1,0 +1,73 @@
+QWidget {
+  background-color: #00baff;
+}
+QLabel {
+  color: #323c49;
+  font-weight: 900;
+}
+QLabel#heading {
+  color: #303e50;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+QLabel#subheading {
+  color: #1f3147;
+  font-size: 12px;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+QLineEdit {
+  border-radius: 8px;
+  border: 1px solid #38235a;
+  padding: 5px 15px;
+}
+
+QLineEdit:focus {
+  border: 1px solid #38235a;
+}
+
+QLineEdit::placeholder {
+  color: #333d4b;
+}
+QPushButton {
+  background-color: #0d6efd;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  border: 1px solid #0d6efd;
+  padding: 5px 15px;
+  margin-top: 10px;
+  outline: 0px;
+}
+QPushButton:hover,
+QPushButton:focus {
+  background-color: #0b5ed7;
+  border: 3px solid #9ac3fe;
+}
+
+QDockWidget::title {
+  background-color: #3063a1;
+  color: #3063a1;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 4px;
+  border-radius: 8px;
+}
+
+QDockWidget::close-button, QDockWidget::float-button {
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+}
+
+QDockWidget::close-button:hover, QDockWidget::float-button:hover {
+  background-color: #3063a1;
+  border-radius: 8px;
+}
+
+QDockWidget::close-button:pressed, QDockWidget::float-button:pressed {
+  background-color: #3063a1;
+  border-radius: 8px;
+}

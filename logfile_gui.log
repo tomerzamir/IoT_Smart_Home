@@ -1,0 +1,179 @@
+2023-05-11 18:56:27,403 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 424, in __init__
+    for row in rez:
+TypeError: 'NoneType' object is not iterable
+2023-05-11 19:56:13,599 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 13:39:17,949 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 13:42:55,532 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 13:46:29,812 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 13:55:48,903 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 13:59:24,838 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 14:05:00,022 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 15:48:24,823 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-18 19:18:05,040 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 476, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 421, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-21 22:06:59,870 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 478, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 465, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 422, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-21 22:09:40,439 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 478, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 465, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\gui.py", line 422, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data
+2023-05-22 21:15:32,996 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome\gui.py", line 490, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome\gui.py", line 472, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome\gui.py", line 428, in __init__
+    rez= da.filter_by_date('data','2021-05-16','2021-05-18', 'ElecMeter')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome\data_acq.py", line 229, in filter_by_date
+    cur.execute("SELECT * FROM " + table_name +" WHERE `name` LIKE '"+ meter +"' AND timestamp BETWEEN '"+ start_date +"' AND '"+ end_date +"'")
+sqlite3.OperationalError: no such table: data

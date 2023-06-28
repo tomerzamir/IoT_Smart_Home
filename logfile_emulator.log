@@ -1,0 +1,384 @@
+2023-05-18 14:21:49,881 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 310, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 228, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 67, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:21:52,587 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 310, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 228, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 67, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:21:55,618 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 310, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 228, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 67, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:21:58,698 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 310, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 228, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 67, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:22:24,670 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 309, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 227, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 66, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:22:27,580 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 309, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 227, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 66, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:23:01,364 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 312, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 230, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 66, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:23:03,619 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 312, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 230, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 66, in __init__
+    self.title_label.setStyleSheet(title_stylesheet)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'title_label'
+2023-05-18 14:26:07,076 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 99, in __init__
+    self.Humidity.setfont(font)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QLineEdit' object has no attribute 'setfont'
+2023-05-18 14:26:09,988 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 99, in __init__
+    self.Humidity.setfont(font)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QLineEdit' object has no attribute 'setfont'
+2023-05-18 14:26:13,651 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 143, in __init__
+    self.setfont(font)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:26:16,645 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 143, in __init__
+    self.setfont(font)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:26:54,750 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 99, in __init__
+    self.Humidity.setfont(font)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QLineEdit' object has no attribute 'setfont'
+2023-05-18 14:26:57,118 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 99, in __init__
+    self.Humidity.setfont(font)
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QLineEdit' object has no attribute 'setfont'
+2023-05-18 14:43:11,647 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:43:13,963 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:43:17,040 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:44:25,169 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:44:28,164 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:44:31,030 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:44:58,942 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:45:02,012 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 308, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 226, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 144, in __init__
+    self.setfont(font_t)
+    ^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'setfont'
+2023-05-18 14:47:22,625 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setfont(font)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 14:47:25,075 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setfont(font)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 14:47:28,075 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setfont(font)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 14:48:11,812 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setGraphicsEffect(QGraphicsDropShadowEffect())
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 14:48:15,011 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setGraphicsEffect(QGraphicsDropShadowEffect())
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 14:49:22,003 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setGraphicsEffect(QGraphicsDropShadowEffect())
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 14:49:25,081 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 307, in <module>
+    mainwin = MainWindow(argv)
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 225, in __init__
+    self.connectionDock = ConnectionDock(self.mc, self.name, self.topic_sub, self.topic_pub)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 88, in __init__
+    self.eConnectbtn.setGraphicsEffect(QGraphicsDropShadowEffect())
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'ConnectionDock' object has no attribute 'eConnectbtn'
+2023-05-18 15:47:38,250 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 305, in <module>
+    app.setStyleSheet(Path('clean.qss').read_text())
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 1058, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'clean.qss'
+2023-05-18 15:47:40,572 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 305, in <module>
+    app.setStyleSheet(Path('clean.qss').read_text())
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 1058, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'clean.qss'
+2023-05-18 15:47:43,610 : ERROR : __main__ : Crash!
+Traceback (most recent call last):
+  File "C:\Users\tomer\IoT\projects\SmartHome-main\emulator.py", line 305, in <module>
+    app.setStyleSheet(Path('clean.qss').read_text())
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 1058, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tomer\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'clean.qss'
